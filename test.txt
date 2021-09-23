@@ -1,0 +1,7 @@
+We found a suspicious extension
+First check if this is a safe extension or not?
+To do this, you can see the folder containing that file by clicking the "Path" button
+You can start by trying to open the suspicious file
+If the system could not execute the file properly with certain software, we may be dealing with a malicious extension
+If the extension was secure, you can add it to the list of secure extensions by clicking the "Safe" button.
+
